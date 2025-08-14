@@ -10,7 +10,9 @@ Ce dépôt a été créé dans le cadre du laboratoire pour pratiquer :
 ## Lien GitHub Pages
 
 > **À mettre à jour après l'activation de Pages :**  
-> `https://<ton-utilisateur>.github.io/<nom-du-repo>/`
+> https://slimb-hash.github.io/projet-bon-berry-bahire/
+
+
 
 ## Étapes suivies
 
